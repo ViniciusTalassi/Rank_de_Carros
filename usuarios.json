@@ -1,0 +1,42 @@
+[
+    {
+        "id": "675b4ad28e34a",
+        "rank": "1",
+        "marca": "Nissan",
+        "modelo": "Skyline GT-R R34",
+        "ano": "2000",
+        "cor": "#0400ff"
+    },
+    {
+        "id": "675b4b9cecc3c",
+        "rank": "2",
+        "marca": "Toyota",
+        "modelo": "Supra MK4",
+        "ano": "1993",
+        "cor": "#ff7b00"
+    },
+    {
+        "id": "675b4c3f1b88b",
+        "rank": "4",
+        "marca": "Mazda",
+        "modelo": "MX5 Miata",
+        "ano": "1996",
+        "cor": "#ff0000"
+    },
+    {
+        "id": "675b4cd2f18fe",
+        "rank": "3",
+        "marca": "Shelby",
+        "modelo": "GT500 \"Eleanor\"",
+        "ano": "1967",
+        "cor": "#a6a6a6"
+    },
+    {
+        "id": "675b4d411bf2a",
+        "rank": "5",
+        "marca": "Chevrolet",
+        "modelo": "Corvette Stingray",
+        "ano": "1973",
+        "cor": "#0008ff"
+    }
+]
